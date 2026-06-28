@@ -1,0 +1,12 @@
+App Quiz domande esame AGEA
+
+Uso previsto: strumento didattico di autovalutazione e ripasso.
+
+Privacy:
+- l'app non invia dati a server esterni;
+- i progressi sono salvati soltanto nel browser locale dell'utente;
+- GitHub Pages serve solo il file statico dell'app.
+
+Avvertenza:
+- le risposte corrette sono presenti nel codice HTML;
+- l'app non è adatta a somministrare prove d'esame ufficiali.
